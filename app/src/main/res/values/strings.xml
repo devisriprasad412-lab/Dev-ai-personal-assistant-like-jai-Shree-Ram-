@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dev AI</string>
+    <string name="accessibility_service_desc">Dev AI Accessibility Assistant for locking screen and executing voice automation commands.</string>
+    <string name="device_admin_desc">Allows Dev AI to lock your device screen via voice command or automation.</string>
+    <string name="jai_shree_ram">జై శ్రీ రామ్</string>
+    <string name="welcome_salutation">జై శ్రీ రామ్! నేను మీ దేవ్ AI అసిస్టెంట్. నేను మీకు ఎలా సహాయపడగలను?</string>
+</resources>

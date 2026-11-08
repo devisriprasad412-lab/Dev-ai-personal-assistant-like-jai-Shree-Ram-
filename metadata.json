@@ -1,0 +1,6 @@
+{
+  "name": "Dev AI",
+  "description": "Dev AI Personal Assistant with voice command execution, app launcher, screen lock, automation routines, and Telugu voice responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
